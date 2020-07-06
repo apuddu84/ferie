@@ -1,11 +1,9 @@
 {
   "login": {
-    {
       "access_token": "M40f8QlJXWVtp6KqpMz1JmQFDk1VXN",
       "expires_in": 129600,
       "token_type": "Bearer",
       "scope": "read write",
       "refresh_token": "7E0LpeY02zCpSPuxBF6SDzS3sLYYJq"
-    }
   }
 }
