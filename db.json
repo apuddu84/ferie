@@ -1,31 +1,11 @@
 {
-  "posts": [
+  "login": {
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "access_token": "M40f8QlJXWVtp6KqpMz1JmQFDk1VXN",
+      "expires_in": 129600,
+      "token_type": "Bearer",
+      "scope": "read write",
+      "refresh_token": "7E0LpeY02zCpSPuxBF6SDzS3sLYYJq"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
   }
 }
